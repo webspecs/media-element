@@ -17,3 +17,7 @@ spec   | section id | owner
 MSE| |
 EME| |
 [WebAudio](http://webaudio.github.io/web-audio-api/)|#MediaElementAudioSourceNode-section|
+
+Future specs:
+* HTMLMediaElement.captureStream, planned in https://github.com/w3c/mediacapture-fromelement
+* HTMLMediaElement.sinkId, planned in https://github.com/w3c/mediacapture-output/
