@@ -16,3 +16,4 @@ spec   | section id | owner
 [getUserMedia](http://w3c.github.io/mediacapture-main/getusermedia.html)|#mediastreams-as-media-elements|Dom
 MSE| |
 EME| |
+[WebAudio](http://webaudio.github.io/web-audio-api/)|#MediaElementAudioSourceNode-section|
