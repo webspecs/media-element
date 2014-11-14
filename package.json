@@ -1,0 +1,11 @@
+{
+    "name": "media-element",
+    "version": "0.0.1",
+    "description": "The HTMLMediaElement Interface",
+    "scripts": {
+        "test": "node ./node_modules/webspec/bin/webspec.js check --tap"
+    },
+    "devDependencies": {
+        "webspec":      "*"
+    }
+}
