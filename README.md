@@ -10,7 +10,9 @@ in order to ensure coordination.
 
 This is a table of the sources, sections, and who will pull them in.
 
-    HTML                        #media-elements                                   Robin
-    getUserMedia
-    MSE
-    EME
+spec   | section id | owner
+-------|------------|------
+ HTML  |#media-elements|Robin
+[getUserMedia](http://w3c.github.io/mediacapture-main/getusermedia.html)|#mediastreams-as-media-elements|Dom
+MSE| |
+EME| |
