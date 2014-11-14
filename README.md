@@ -10,7 +10,7 @@ in order to ensure coordination.
 
 This is a table of the sources, sections, and who will pull them in.
 
-  HTML                        #media-elements                                   Robin
-  getUserMedia
-  MSE
-  EME
+    HTML                        #media-elements                                   Robin
+    getUserMedia
+    MSE
+    EME
