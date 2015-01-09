@@ -18,6 +18,5 @@ MSE| |
 EME| |
 [WebAudio](http://webaudio.github.io/web-audio-api/)|#MediaElementAudioSourceNode-section|
 [Audio Output Devices API](http://w3c.github.io/mediacapture-output/)|#htmlmediaelement-extensions|Dom
+[Media Capture from DOM Element](https://w3c.github.io/mediacapture-fromelement)|#html-media-element-media-capture-extensions|Dom
 
-Future specs:
-* HTMLMediaElement.captureStream, planned in https://github.com/w3c/mediacapture-fromelement
